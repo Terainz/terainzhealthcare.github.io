@@ -1,5 +1,5 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
-@import url(../../../https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 
 #slider-3 H2 {
   text-align: left;
@@ -247,9 +247,6 @@
   font-size: 46px;
 }
 #content5-2g P {
-  font-size: 17px;
-}
-#msg-box2-8y H2 {
   font-size: 17px;
 }
 #contacts1-m B {
