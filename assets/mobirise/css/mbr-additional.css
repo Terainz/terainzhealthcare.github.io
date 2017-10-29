@@ -1,9 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 
+#msg-box1-g3 H2 {
+  text-align: right;
+  color: #000000;
+}
 #slider-3 H2 {
   text-align: left;
-  font-size: 30px;
+  font-size: 25px;
   color: #010102;
 }
 #features1-8 H4 {
@@ -22,30 +26,36 @@
   font-size: 16px;
   color: #000000;
 }
-#menu-7b .navbar-toggler {
-  color: #0275d8;
-}
-#menu-7b .navbar-brand {
-  font-size: 46px;
-  font-family: 'Playfair Display', sans-serif;
-}
-#menu-7b .nav-link {
-  font-size: 20px;
-}
 #contacts3-f8 STRONG {
   color: #000000;
+}
+#menu-ff .navbar-toggler {
+  color: #000000;
+}
+#menu-ff .navbar-brand {
+  font-size: 48px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-ff .nav-link {
+  font-size: 20px;
+}
+#menu-ff .nav-link STRONG {
+  font-size: 22px;
 }
 
 
 #menu-4 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-4 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-4 .nav-link {
   font-size: 20px;
+}
+#menu-4 .nav-link STRONG {
+  font-size: 22px;
 }
 #content5-v P {
   font-size: 17px;
@@ -101,6 +111,12 @@
 #features1-13 DIV {
   text-align: center;
 }
+#features1-13 P {
+  text-align: left;
+}
+#features1-13 H4 {
+  text-align: right;
+}
 #features1-14 B {
   font-size: 24px;
 }
@@ -122,12 +138,6 @@
   font-size: 16px;
   color: #000000;
 }
-#features1-e2 B {
-  font-size: 24px;
-}
-#features1-e2 I {
-  font-size: 24px;
-}
 
 #content5-j P {
   text-align: left;
@@ -143,14 +153,17 @@
   text-align: center;
 }
 #menu-5 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-5 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-5 .nav-link {
   font-size: 20px;
+}
+#menu-5 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-m B {
   color: #ffffff;
@@ -166,14 +179,17 @@
 }
 
 #menu-5 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-5 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-5 .nav-link {
   font-size: 20px;
+}
+#menu-5 .nav-link STRONG {
+  font-size: 22px;
 }
 #content5-n P {
   font-size: 17px;
@@ -202,14 +218,17 @@
   font-size: 17px;
 }
 #menu-5 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-5 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-5 .nav-link {
   font-size: 20px;
+}
+#menu-5 .nav-link STRONG {
+  font-size: 22px;
 }
 #msg-box1-e3 H2 {
   text-align: left;
@@ -242,63 +261,30 @@
   color: #000000;
 }
 
-#menu-1t .navbar-toggler {
-  color: #0275d8;
-}
-#menu-1t .navbar-brand {
-  font-size: 46px;
-  font-family: 'Playfair Display', sans-serif;
-}
-#menu-1t .nav-link {
-  font-size: 20px;
-}
-#header3-1w H3 {
-  text-align: center;
-}
-#content5-24 P {
-  font-size: 19px;
+#slider-hf P {
   text-align: left;
 }
-#image2-25 DIV {
-  font-size: 30px;
-}
-#msg-box3-29 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-29 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#contacts1-m B {
-  color: #ffffff;
-  font-size: 17px;
-}
-#contacts1-m P {
-  color: #000000;
-  font-size: 14px;
-}
-#footer1-i P {
-  font-size: 16px;
-  color: #000000;
-}
-
 #menu-2c .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-2c .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-2c .nav-link {
   font-size: 20px;
 }
-#header2-2f P {
-  text-align: left;
+#menu-2c .nav-link STRONG {
+  font-size: 22px;
 }
 #content5-2g .mbr-section-title {
   font-size: 46px;
 }
 #content5-2g P {
   font-size: 17px;
+}
+#form1-91 .btn {
+  font-size: 20px;
 }
 #contacts1-m B {
   color: #ffffff;
@@ -319,14 +305,17 @@
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-2 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-2 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-2 .nav-link {
   font-size: 20px;
+}
+#menu-2 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-m B {
   color: #ffffff;
@@ -350,14 +339,17 @@
   font-size: 17px;
 }
 #menu-2u .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-2u .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-2u .nav-link {
   font-size: 20px;
+}
+#menu-2u .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-2w B {
   color: #ffffff;
@@ -381,14 +373,17 @@
   font-size: 17px;
 }
 #menu-31 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-31 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-31 .nav-link {
   font-size: 20px;
+}
+#menu-31 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-33 B {
   color: #ffffff;
@@ -412,14 +407,17 @@
   font-size: 17px;
 }
 #menu-37 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-37 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-37 .nav-link {
   font-size: 20px;
+}
+#menu-37 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-39 B {
   color: #ffffff;
@@ -443,14 +441,17 @@
   font-size: 17px;
 }
 #menu-3d .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-3d .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-3d .nav-link {
   font-size: 20px;
+}
+#menu-3d .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-3f B {
   color: #ffffff;
@@ -474,14 +475,17 @@
   font-size: 17px;
 }
 #menu-3p .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-3p .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-3p .nav-link {
   font-size: 20px;
+}
+#menu-3p .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-3r B {
   color: #ffffff;
@@ -505,14 +509,17 @@
   font-size: 17px;
 }
 #menu-3v .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-3v .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-3v .nav-link {
   font-size: 20px;
+}
+#menu-3v .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-3x B {
   color: #ffffff;
@@ -536,14 +543,17 @@
   font-size: 17px;
 }
 #menu-41 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-41 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-41 .nav-link {
   font-size: 20px;
+}
+#menu-41 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-43 B {
   color: #ffffff;
@@ -567,14 +577,17 @@
   font-size: 17px;
 }
 #menu-47 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-47 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-47 .nav-link {
   font-size: 20px;
+}
+#menu-47 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-49 B {
   color: #ffffff;
@@ -598,14 +611,17 @@
   font-size: 17px;
 }
 #menu-4d .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-4d .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-4d .nav-link {
   font-size: 20px;
+}
+#menu-4d .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-4f B {
   color: #ffffff;
@@ -629,14 +645,17 @@
   font-size: 17px;
 }
 #menu-4j .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-4j .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-4j .nav-link {
   font-size: 20px;
+}
+#menu-4j .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-4l B {
   color: #ffffff;
@@ -660,14 +679,17 @@
   font-size: 17px;
 }
 #menu-4p .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-4p .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-4p .nav-link {
   font-size: 20px;
+}
+#menu-4p .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-4r B {
   color: #ffffff;
@@ -691,14 +713,17 @@
   font-size: 17px;
 }
 #menu-4v .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-4v .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-4v .nav-link {
   font-size: 20px;
+}
+#menu-4v .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-4x B {
   color: #ffffff;
@@ -722,14 +747,17 @@
   font-size: 17px;
 }
 #menu-51 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-51 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-51 .nav-link {
   font-size: 20px;
+}
+#menu-51 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-53 B {
   color: #ffffff;
@@ -753,14 +781,17 @@
   font-size: 17px;
 }
 #menu-57 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-57 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-57 .nav-link {
   font-size: 20px;
+}
+#menu-57 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-59 B {
   color: #ffffff;
@@ -784,14 +815,17 @@
   font-size: 17px;
 }
 #menu-5d .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-5d .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-5d .nav-link {
   font-size: 20px;
+}
+#menu-5d .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-5f B {
   color: #ffffff;
@@ -815,14 +849,17 @@
   font-size: 17px;
 }
 #menu-5j .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-5j .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-5j .nav-link {
   font-size: 20px;
+}
+#menu-5j .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-5l B {
   color: #ffffff;
@@ -846,14 +883,17 @@
   font-size: 17px;
 }
 #menu-5p .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-5p .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-5p .nav-link {
   font-size: 20px;
+}
+#menu-5p .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-5r B {
   color: #ffffff;
@@ -877,14 +917,17 @@
   font-size: 17px;
 }
 #menu-5v .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-5v .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-5v .nav-link {
   font-size: 20px;
+}
+#menu-5v .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-5x B {
   color: #ffffff;
@@ -908,14 +951,17 @@
   font-size: 17px;
 }
 #menu-61 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-61 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-61 .nav-link {
   font-size: 20px;
+}
+#menu-61 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-63 B {
   color: #ffffff;
@@ -939,14 +985,17 @@
   font-size: 17px;
 }
 #menu-67 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-67 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-67 .nav-link {
   font-size: 20px;
+}
+#menu-67 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-69 B {
   color: #ffffff;
@@ -970,14 +1019,17 @@
   font-size: 17px;
 }
 #menu-6d .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-6d .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-6d .nav-link {
   font-size: 20px;
+}
+#menu-6d .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-6f B {
   color: #ffffff;
@@ -1002,14 +1054,17 @@
   text-align: right;
 }
 #menu-6i .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-6i .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-6i .nav-link {
   font-size: 20px;
+}
+#menu-6i .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-6k B {
   color: #ffffff;
@@ -1033,14 +1088,17 @@
   font-size: 17px;
 }
 #menu-6p .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-6p .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-6p .nav-link {
   font-size: 20px;
+}
+#menu-6p .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-6r B {
   color: #ffffff;
@@ -1067,14 +1125,17 @@
   font-size: 17px;
 }
 #menu-6v .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-6v .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-6v .nav-link {
   font-size: 20px;
+}
+#menu-6v .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-6x B {
   color: #ffffff;
@@ -1098,14 +1159,17 @@
   font-size: 17px;
 }
 #menu-71 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-71 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-71 .nav-link {
   font-size: 20px;
+}
+#menu-71 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-73 B {
   color: #ffffff;
@@ -1129,14 +1193,17 @@
   font-size: 17px;
 }
 #menu-77 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-77 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-77 .nav-link {
   font-size: 20px;
+}
+#menu-77 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-79 B {
   color: #ffffff;
@@ -1151,57 +1218,40 @@
   color: #000000;
 }
 
-#menu-7b .navbar-toggler {
-  color: #0275d8;
-}
-#menu-7b .navbar-brand {
-  font-size: 46px;
-  font-family: 'Playfair Display', sans-serif;
-}
-#menu-7b .nav-link {
-  font-size: 20px;
-}
-#header3-7c H3 {
+#msg-box3-gp .mbr-header .mbr-header__text {
   text-align: center;
 }
-#content5-7i P {
-  font-size: 19px;
+#msg-box3-gp .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-gp .mbr-section-title {
+  text-align: center;
+}
+#msg-box3-gp .lead P {
   text-align: left;
-}
-#content5-7y .mbr-section-title {
-  font-size: 46px;
-}
-#msg-box3-7n .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-7n .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#contacts1-7q B {
-  color: #ffffff;
   font-size: 17px;
 }
-#contacts1-7q P {
-  color: #000000;
-  font-size: 14px;
+#features1-gs B {
+  font-size: 24px;
 }
-#footer1-7r P {
-  font-size: 16px;
-  color: #000000;
+#features1-gs I {
+  font-size: 24px;
 }
-
+#features1-gs H4 {
+  text-align: right;
+}
 #menu-80 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-80 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-80 .nav-link {
   font-size: 20px;
 }
-#header3-81 H3 {
-  text-align: center;
+#menu-80 .nav-link STRONG {
+  font-size: 22px;
 }
 #content5-84 P {
   font-size: 17px;
@@ -1214,13 +1264,31 @@
   text-align: left;
 }
 #content5-86 .mbr-section-title {
-  font-size: 46px;
+  font-size: 30px;
 }
 #content5-88 .mbr-section-title {
-  font-size: 46px;
+  font-size: 24px;
 }
 #content5-88 P {
   font-size: 17px;
+}
+#content5-88 .mbr-section-title DIV {
+  font-size: 30px;
+}
+#content5-88 .mbr-section-title B {
+  font-size: 36px;
+}
+#msg-box1-gq H2 {
+  text-align: right;
+}
+#pricing-table1-gr UL {
+  font-size: 22px;
+}
+#pricing-table1-gr B {
+  color: #000000;
+}
+#pricing-table1-gr DIV {
+  color: #000000;
 }
 #msg-box3-eh .mbr-header .mbr-header__text {
   text-align: center;
@@ -1241,18 +1309,31 @@
   color: #000000;
 }
 
+#msg-box3-gt .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-gt .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-gt .mbr-section-title {
+  text-align: center;
+}
+#msg-box3-gt .lead P {
+  text-align: left;
+  font-size: 17px;
+}
 #menu-8g .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-8g .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-8g .nav-link {
   font-size: 20px;
 }
-#header3-8h H3 {
-  text-align: center;
+#menu-8g .nav-link STRONG {
+  font-size: 22px;
 }
 #content5-8k P {
   font-size: 17px;
@@ -1266,6 +1347,34 @@
 }
 #content5-8l .mbr-section-title {
   font-size: 46px;
+}
+#msg-box1-hb H2 {
+  text-align: right;
+}
+#msg-box1-hb DIV {
+  text-align: left;
+  font-size: 30px;
+}
+#content5-hc P {
+  color: #000000;
+}
+#content5-hc .mbr-section-title DIV {
+  font-size: 30px;
+}
+#content5-hc .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box1-gu H2 {
+  text-align: right;
+}
+#pricing-table1-gv UL {
+  font-size: 22px;
+}
+#pricing-table1-gv B {
+  color: #000000;
+}
+#pricing-table1-gv DIV {
+  color: #000000;
 }
 #msg-box3-8p .mbr-header .mbr-header__text {
   text-align: center;
@@ -1288,14 +1397,17 @@
 
 
 #menu-94 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-94 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-94 .nav-link {
   font-size: 20px;
+}
+#menu-94 .nav-link STRONG {
+  font-size: 22px;
 }
 #content5-96 P {
   font-size: 17px;
@@ -1328,9 +1440,6 @@
   text-align: center;
   font-size: 36px;
 }
-#msg-box1-db H2 {
-  text-align: right;
-}
 #contacts1-9f B {
   color: #ffffff;
   font-size: 17px;
@@ -1342,9 +1451,6 @@
 #footer1-9g P {
   font-size: 16px;
   color: #000000;
-}
-#msg-box1-d9 H2 {
-  text-align: right;
 }
 
 #msg-box3-9z .mbr-header .mbr-header__text {
@@ -1373,6 +1479,18 @@
 #msg-box4-a7 .lead P {
   text-align: left;
 }
+#msg-box1-fk H2 {
+  text-align: right;
+}
+#pricing-table1-fj UL {
+  font-size: 22px;
+}
+#pricing-table1-fj B {
+  color: #000000;
+}
+#pricing-table1-fj DIV {
+  color: #000000;
+}
 #msg-box3-ef .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -1383,14 +1501,17 @@
   text-align: left;
 }
 #menu-9r .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-9r .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-9r .nav-link {
   font-size: 20px;
+}
+#menu-9r .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-9s B {
   color: #ffffff;
@@ -1431,8 +1552,34 @@
 #msg-box1-cg H2 {
   text-align: right;
 }
+#msg-box1-ft H2 {
+  text-align: right;
+  color: #000000;
+}
+#pricing-table1-fu UL {
+  font-size: 22px;
+}
+#pricing-table1-fu B {
+  color: #000000;
+}
+#pricing-table1-fu DIV {
+  color: #000000;
+}
 #msg-box1-ch H2 {
   text-align: left;
+}
+#msg-box1-fv H2 {
+  text-align: right;
+  color: #000000;
+}
+#pricing-table1-fw UL {
+  font-size: 22px;
+}
+#pricing-table1-fw B {
+  color: #000000;
+}
+#pricing-table1-fw DIV {
+  color: #000000;
 }
 #msg-box3-ea .mbr-header .mbr-header__text {
   text-align: center;
@@ -1444,14 +1591,17 @@
   text-align: left;
 }
 #menu-ae .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-ae .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-ae .nav-link {
   font-size: 20px;
+}
+#menu-ae .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-af B {
   color: #ffffff;
@@ -1492,6 +1642,18 @@
 #msg-box4-b0 .lead P {
   text-align: left;
 }
+#msg-box1-fl H2 {
+  text-align: right;
+}
+#pricing-table1-fm UL {
+  font-size: 22px;
+}
+#pricing-table1-fm B {
+  color: #000000;
+}
+#pricing-table1-fm DIV {
+  color: #000000;
+}
 #msg-box3-ee .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -1502,14 +1664,17 @@
   text-align: left;
 }
 #menu-b3 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-b3 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-b3 .nav-link {
   font-size: 20px;
+}
+#menu-b3 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-b4 B {
   color: #ffffff;
@@ -1550,6 +1715,18 @@
 #msg-box4-bb .lead P {
   text-align: left;
 }
+#msg-box1-fn H2 {
+  text-align: right;
+}
+#pricing-table1-fo UL {
+  font-size: 22px;
+}
+#pricing-table1-fo B {
+  color: #000000;
+}
+#pricing-table1-fo DIV {
+  color: #000000;
+}
 #msg-box3-ed .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -1560,14 +1737,17 @@
   text-align: left;
 }
 #menu-be .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-be .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-be .nav-link {
   font-size: 20px;
+}
+#menu-be .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-bf B {
   color: #ffffff;
@@ -1601,6 +1781,19 @@
 #msg-box4-bx .lead P {
   text-align: left;
 }
+#msg-box1-g7 H2 {
+  text-align: right;
+  color: #000000;
+}
+#pricing-table1-g8 UL {
+  font-size: 22px;
+}
+#pricing-table1-g8 B {
+  color: #000000;
+}
+#pricing-table1-g8 DIV {
+  color: #000000;
+}
 #msg-box3-e8 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -1611,14 +1804,17 @@
   text-align: left;
 }
 #menu-bu .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-bu .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-bu .nav-link {
   font-size: 20px;
+}
+#menu-bu .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-bv B {
   color: #ffffff;
@@ -1642,14 +1838,17 @@
   font-size: 17px;
 }
 #menu-c0 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-c0 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-c0 .nav-link {
   font-size: 20px;
+}
+#menu-c0 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-c2 B {
   color: #ffffff;
@@ -1690,6 +1889,19 @@
   color: #000000;
   font-size: 17px;
 }
+#msg-box1-g4 H2 {
+  text-align: right;
+  color: #000000;
+}
+#pricing-table1-g6 UL {
+  font-size: 22px;
+}
+#pricing-table1-g6 B {
+  color: #000000;
+}
+#pricing-table1-g6 DIV {
+  color: #000000;
+}
 #msg-box3-e9 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -1700,14 +1912,17 @@
   text-align: left;
 }
 #menu-cd .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-cd .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-cd .nav-link {
   font-size: 20px;
+}
+#menu-cd .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-ce B {
   color: #ffffff;
@@ -1749,6 +1964,18 @@
   color: #000000;
   font-size: 17px;
 }
+#msg-box1-fp H2 {
+  text-align: right;
+}
+#pricing-table1-fq UL {
+  font-size: 22px;
+}
+#pricing-table1-fq B {
+  color: #000000;
+}
+#pricing-table1-fq DIV {
+  color: #000000;
+}
 #msg-box3-ec .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -1759,14 +1986,17 @@
   text-align: left;
 }
 #menu-cr .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-cr .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-cr .nav-link {
   font-size: 20px;
+}
+#menu-cr .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-cs B {
   color: #ffffff;
@@ -1807,6 +2037,19 @@
 #msg-box4-d8 .lead P {
   text-align: left;
 }
+#msg-box1-fr H2 {
+  text-align: right;
+  color: #000000;
+}
+#pricing-table1-fs UL {
+  font-size: 22px;
+}
+#pricing-table1-fs B {
+  color: #000000;
+}
+#pricing-table1-fs DIV {
+  color: #000000;
+}
 #msg-box3-eb .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -1817,14 +2060,17 @@
   text-align: left;
 }
 #menu-d5 .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-d5 .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-d5 .nav-link {
   font-size: 20px;
+}
+#menu-d5 .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-d6 B {
   color: #ffffff;
@@ -1848,14 +2094,17 @@
   font-size: 17px;
 }
 #menu-df .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-df .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-df .nav-link {
   font-size: 20px;
+}
+#menu-df .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-dh B {
   color: #ffffff;
@@ -1879,14 +2128,17 @@
   font-size: 17px;
 }
 #menu-dn .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-dn .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-dn .nav-link {
   font-size: 20px;
+}
+#menu-dn .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-do B {
   color: #ffffff;
@@ -1910,14 +2162,17 @@
   font-size: 17px;
 }
 #menu-dt .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-dt .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-dt .nav-link {
   font-size: 20px;
+}
+#menu-dt .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-du B {
   color: #ffffff;
@@ -1941,14 +2196,17 @@
   font-size: 17px;
 }
 #menu-dz .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-dz .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-dz .nav-link {
   font-size: 20px;
+}
+#menu-dz .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-e0 B {
   color: #ffffff;
@@ -1968,14 +2226,17 @@
   font-size: 17px;
 }
 #menu-ff .navbar-toggler {
-  color: #0275d8;
+  color: #000000;
 }
 #menu-ff .navbar-brand {
-  font-size: 46px;
+  font-size: 48px;
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-ff .nav-link {
   font-size: 20px;
+}
+#menu-ff .nav-link STRONG {
+  font-size: 22px;
 }
 #contacts1-fg B {
   color: #ffffff;
@@ -1986,6 +2247,180 @@
   font-size: 14px;
 }
 #footer1-fh P {
+  font-size: 16px;
+  color: #000000;
+}
+
+#msg-box3-ga .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-ga .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-ga .mbr-section-title {
+  text-align: center;
+}
+#msg-box3-ga .lead P {
+  text-align: left;
+  font-size: 17px;
+}
+#content5-gc P {
+  font-size: 17px;
+}
+#content5-gd P {
+  font-size: 17px;
+}
+#content5-gd .mbr-section-title {
+  font-size: 36px;
+}
+#content5-ge P {
+  color: #000000;
+  font-size: 17px;
+}
+#content5-ge .mbr-section-title {
+  font-size: 36px;
+}
+#content5-gf P {
+  color: #000000;
+  font-size: 17px;
+}
+#msg-box1-gh H2 {
+  text-align: right;
+}
+#pricing-table1-gi UL {
+  font-size: 22px;
+}
+#pricing-table1-gi B {
+  color: #000000;
+}
+#pricing-table1-gi DIV {
+  color: #000000;
+}
+#msg-box3-gj .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-gj .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#social-buttons1-gk .mbr-section-title {
+  text-align: left;
+}
+#menu-gl .navbar-toggler {
+  color: #000000;
+}
+#menu-gl .navbar-brand {
+  font-size: 48px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-gl .nav-link {
+  font-size: 20px;
+}
+#menu-gl .nav-link STRONG {
+  font-size: 22px;
+}
+#contacts1-gm B {
+  color: #ffffff;
+  font-size: 17px;
+}
+#contacts1-gm P {
+  color: #000000;
+  font-size: 14px;
+}
+#footer1-gn P {
+  font-size: 16px;
+  color: #000000;
+}
+
+#msg-box3-gw .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-gw .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-gw .mbr-section-title {
+  text-align: center;
+}
+#msg-box3-gw .lead P {
+  text-align: left;
+  font-size: 17px;
+}
+#features1-gx B {
+  font-size: 24px;
+}
+#features1-gx I {
+  font-size: 24px;
+}
+#features1-gx H4 {
+  text-align: right;
+}
+#menu-gy .navbar-toggler {
+  color: #000000;
+}
+#menu-gy .navbar-brand {
+  font-size: 48px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-gy .nav-link {
+  font-size: 20px;
+}
+#menu-gy .nav-link STRONG {
+  font-size: 22px;
+}
+#content5-gz P {
+  font-size: 17px;
+}
+#content5-gz .mbr-section-title {
+  font-size: 46px;
+}
+#content5-h0 P {
+  font-size: 17px;
+  text-align: left;
+}
+#content5-h0 .mbr-section-title {
+  font-size: 46px;
+}
+#features1-h9 B {
+  font-size: 24px;
+}
+#features1-h9 I {
+  font-size: 24px;
+}
+#features1-h9 H4 {
+  text-align: right;
+}
+#content5-h1 .mbr-section-title {
+  font-size: 46px;
+}
+#content5-h1 P {
+  font-size: 17px;
+}
+#msg-box1-h3 H2 {
+  text-align: right;
+}
+#pricing-table1-h4 UL {
+  font-size: 22px;
+}
+#pricing-table1-h4 B {
+  color: #000000;
+}
+#pricing-table1-h4 DIV {
+  color: #000000;
+}
+#msg-box3-h5 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-h5 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#contacts1-h7 B {
+  color: #ffffff;
+  font-size: 17px;
+}
+#contacts1-h7 P {
+  color: #000000;
+  font-size: 14px;
+}
+#footer1-h8 P {
   font-size: 16px;
   color: #000000;
 }
